@@ -33,7 +33,7 @@ console.log(fruits);
 //pop removes from the end of teh array 
 fruits.pop;
 console.log(fruits);
-//unshift adds to teh start of an arrsy 
+//unshift adds to the start of an arrsy 
 fruits.unshift("Grapes");
 console.log(fruits);
 //shift to remove from the starts of an array list
